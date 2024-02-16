@@ -66,6 +66,12 @@ cp ./raspberry_box.ovpn /etc/openvpn/openvpn.conf
 systemctl enable openvpn
 ```
 
+#### Config File Edit Test
+
+```bash
+This is a tester for a config file from CLI.
+```
+
 #### Text File Tester
 
 ```txt
