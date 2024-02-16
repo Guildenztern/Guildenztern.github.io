@@ -1,6 +1,6 @@
 ## Building a Raspberry Pi Penetration Testing Dropbox
 
-This will be the blog post for my pentest dropbox that I used on a recent personal project.
+This will be the blog post for my pentest dropbox that I used on a recent personal project. Do not need GUI for this to work, so long as the WiFi and configs are preset properly.
 
 ---
 
@@ -42,9 +42,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ```bash
 
+wget https://git.io/vpn -O openvpn-install.sh
+chmod +x ./openvpn-install.sh
 ./openvpn-install.sh
 
+scp -i cloud_server_key ubuntu@cloud_server_hostname:~/raspberry_box.ovpn ./
+scp -i cloud_server_key ubuntu@cloud_server_hostname:~/attack_box.ovpn ./
+
+openvpn raspberry_box.ovpn
+openvpn attack_box.ovpn
+
+cp ./raspberry_box.ovpn /etc/openvpn/openvpn.conf
+systemctl enable openvpn
+
 ```
+
+#### Text File Tester
+
+```
+This is a tester for a text file edit, with no code highlighting.
+```
+
 
 ---
 
