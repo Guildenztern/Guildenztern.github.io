@@ -10,22 +10,22 @@ This section will list the Hardware and Software that I used
 
 #### Hardware
 
-* Hardware Lists
-* Hardware Lists
-* Hardware Lists
+* Raspberry Pi 4 (link) - This is the actual pentest dropbox that will be planted on-site. 
+* Remote Attack Box - This is the machine that you will use to connect to the Raspberry Pi once the dropbox has been placed on-site. Windows or Linux can work, I used another Kali machine as my Attack Box
+* Micro-HDMI cable and monitor - Used only for initial Raspberry Pi setup
+* 
 
 #### Software
 
-* Software Lists
+* Kali Linux
 * Software Lists
 * Software Lists
 
 #### Accounts
 
 Accounts (AWS, Lightsail, EC2, etc)
-* Lightsail
-* EC2
-* etc
+* AWS EC2
+* AWS Lightsail
 
 ---
 
@@ -37,15 +37,27 @@ Description of the pre-reqs, purpose, and steps of this phase.
 
 Log into Kali ... lorem ipsum dolor sit amet
 
-#### Step 2
+**Step 2:** Lorem ipsum
 
-1. Step 2
-2. 2
-3. 3
+Lorem ipsum
+
+---
+
+### **Phase 2**: Setting up the Amazon EC2 as an OpenVPN connection server
+
+**Step 1:** Lorem ipsum
+
+Lorem ipsum
+
+**Step 2:** Lorem ipsum
+
+Lorem ipsum
 
 #### etc etc etc
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+---
 
 #### Bash Commands Tester
 
