@@ -4,7 +4,7 @@ This will be the blog post for my pentest dropbox that I used on a recent person
 
 ---
 
-### Hardware, Software, and Accounts
+### Hardware, Software, and Accounts Used
 
 This section will list the Hardware and Software that I used
 
@@ -33,15 +33,15 @@ Accounts (AWS, Lightsail, EC2, etc)
 
 Procedure section for steps
 
-**#### Step 1**
+#### **Phase 1**: Connecting the Raspberry Pi to WiFi automatically on startup
 
-**1. Step 1**
-2. 2
-3. 3
+**Step 1:** Create the new ```wpa_supplicant.conf``` file
 
-#### **Step 2**
+Log into Kali ... lorem ipsum dolor sit amet
 
-1. **Step 2**
+#### Step 2
+
+1. Step 2
 2. 2
 3. 3
 
