@@ -29,11 +29,9 @@ Accounts (AWS, Lightsail, EC2, etc)
 
 ---
 
-### Prodecure
+### **Phase 1**: Connecting the Raspberry Pi to WiFi automatically on startup
 
-Procedure section for steps
-
-#### **Phase 1**: Connecting the Raspberry Pi to WiFi automatically on startup
+Description of the pre-reqs, purpose, and steps of this phase.
 
 **Step 1:** Create the new ```wpa_supplicant.conf``` file
 
