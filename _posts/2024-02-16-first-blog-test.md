@@ -10,15 +10,22 @@ This section will list the Hardware and Software that I used
 
 #### Hardware
 
-Hardware Lists
+* Hardware Lists
+* Hardware Lists
+* Hardware Lists
 
 #### Software
 
-Software Lists
+* Software Lists
+* Software Lists
+* Software Lists
 
 #### Accounts
 
 Accounts (AWS, Lightsail, EC2, etc)
+* Lightsail
+* EC2
+* etc
 
 ---
 
@@ -28,11 +35,15 @@ Procedure section for steps
 
 #### Step 1
 
-Step 1
+1. Step 1
+2. 2
+3. 3
 
 #### Step 2
 
-Step 2
+1. Step 2
+2. 2
+3. 3
 
 #### etc etc etc
 
@@ -64,23 +75,4 @@ This is a tester for a text file edit, with no code highlighting.
 
 ---
 
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
+Fin.
