@@ -1,14 +1,24 @@
-## First Blog Tester
+## Building a Raspberry Pi Penetration Testing Dropbox
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+This will be the blog post for my pentest dropbox that I used on a recent personal project.
 
 ---
 
-### This is a header
+### Hardware, Software, and Accounts
+
+This section will list the Hardware and Software that I used
+
+#### Hardware
+
+Hardware Lists
+
+#### Software
+
+Software Lists
+
+#### Accounts
+
+Accounts (AWS, Lightsail, EC2, etc)
 
 #### Some T-SQL Code
 
