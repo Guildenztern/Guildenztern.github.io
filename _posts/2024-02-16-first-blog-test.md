@@ -20,7 +20,7 @@ Software Lists
 
 Accounts (AWS, Lightsail, EC2, etc)
 
-...
+---
 
 ### Prodecure
 
@@ -42,9 +42,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ```bash
 
-```
 ./openvpn-install.sh
-...
+
+```
+
+---
 
 #### Some T-SQL Code
 
