@@ -33,15 +33,15 @@ Accounts (AWS, Lightsail, EC2, etc)
 
 Procedure section for steps
 
-#### Step 1
+**#### Step 1**
 
-1. Step 1
+**1. Step 1**
 2. 2
 3. 3
 
-#### Step 2
+#### **Step 2**
 
-1. Step 2
+1. **Step 2**
 2. 2
 3. 3
 
