@@ -41,7 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Bash Commands Tester
 
 ```bash
-
 wget https://git.io/vpn -O openvpn-install.sh
 chmod +x ./openvpn-install.sh
 ./openvpn-install.sh
@@ -54,7 +53,6 @@ openvpn attack_box.ovpn
 
 cp ./raspberry_box.ovpn /etc/openvpn/openvpn.conf
 systemctl enable openvpn
-
 ```
 
 #### Text File Tester
