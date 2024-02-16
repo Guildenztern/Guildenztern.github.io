@@ -68,7 +68,7 @@ systemctl enable openvpn
 
 #### Text File Tester
 
-```
+```txt
 This is a tester for a text file edit, with no code highlighting.
 ```
 
