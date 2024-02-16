@@ -43,7 +43,7 @@ Lorem ipsum
 
 ---
 
-### **Phase 2**: Setting up the Amazon EC2 as an OpenVPN connection server
+### **Phase 2**: Setting up the Amazon EC2 as an OpenVPN connection server and creating connection files
 
 **Step 1:** Lorem ipsum
 
@@ -52,6 +52,32 @@ Lorem ipsum
 **Step 2:** Lorem ipsum
 
 Lorem ipsum
+
+---
+
+### **Phase 3**: 3
+
+**Step 1:** Lorem ipsum
+
+Lorem ipsum
+
+**Step 2:** Lorem ipsum
+
+Lorem ipsum
+
+---
+
+### **Phase 4**: 4
+
+**Step 1:** Lorem ipsum
+
+Lorem ipsum
+
+**Step 2:** Lorem ipsum
+
+Lorem ipsum
+
+---
 
 #### etc etc etc
 
